@@ -2,4 +2,4 @@ docker run -it\
  -v "$(pwd):/home/app"\
  -p 4000:4000\
  -e PORT=4000\
- jedha/jedha-streamlit-demo
+ jedha/heroku-deployment-exercise-1
